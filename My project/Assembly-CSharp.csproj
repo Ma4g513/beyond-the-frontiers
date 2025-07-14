@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\scripts\ThirdPersonMovement.cs" />
+    <Compile Include="Assets\scripts\invetaire.cs" />
     <Compile Include="Assets\scripts\ThirdPersonCamera.cs" />
   </ItemGroup>
   <ItemGroup>
